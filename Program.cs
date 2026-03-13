@@ -102,7 +102,7 @@ Call a stored procedure from C# and read results.
                 Console.WriteLine("users list");
                 while (mySqlDataReader1.Read())
                 {
-                    Console.WriteLine(mySqlDataReader1["id"] + "-" + mySqlDataReader1["name"] + "-" + mySqlDataReader1["age"]);
+                    Console.WriteLine(mySqlDataReader1["name"] + "-" + mySqlDataReader1["age"]);
 
                 }
                 mySqlDataReader1.Close();
@@ -114,10 +114,10 @@ Call a stored procedure from C# and read results.
                 Console.WriteLine("data updated successfully");
 
                 //delete
-                string deleteQuery = "delete from users where name='john'";
-                mySqlCommand = new MySqlCommand(deleteQuery, mySqlConnection);
-                mySqlCommand.ExecuteNonQuery();
-                Console.WriteLine("data deleted successfully");
+                // string deleteQuery = "delete from users where name='john'";
+                // mySqlCommand = new MySqlCommand(deleteQuery, mySqlConnection);
+                // mySqlCommand.ExecuteNonQuery();
+                // Console.WriteLine("data deleted successfully");
 
             }
             catch (Exception e)

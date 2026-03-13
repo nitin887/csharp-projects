@@ -17,7 +17,6 @@ C:\Users\nitin\Desktop\C# projects\Databases\obj\Debug\net10.0\Databases.Generat
 C:\Users\nitin\Desktop\C# projects\Databases\obj\Debug\net10.0\Databases.AssemblyInfoInputs.cache
 C:\Users\nitin\Desktop\C# projects\Databases\obj\Debug\net10.0\Databases.AssemblyInfo.cs
 C:\Users\nitin\Desktop\C# projects\Databases\obj\Debug\net10.0\Databases.csproj.CoreCompileInputs.cache
-C:\Users\nitin\Desktop\C# projects\Databases\obj\Debug\net10.0\Databases.sourcelink.json
 C:\Users\nitin\Desktop\C# projects\Databases\obj\Debug\net10.0\Databases.dll
 C:\Users\nitin\Desktop\C# projects\Databases\obj\Debug\net10.0\refint\Databases.dll
 C:\Users\nitin\Desktop\C# projects\Databases\obj\Debug\net10.0\Databases.pdb
